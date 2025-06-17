@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Enum uuid="e220f116-56e9-425c-a871-48350968fbac">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ЕдиницыУчетаОС" category="Ref">
+				<xr:TypeId>4de66a8c-833e-4724-abe1-b24d63801811</xr:TypeId>
+				<xr:ValueId>b14f7dfc-5d4b-4cb4-8065-9248f35f8777</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ЕдиницыУчетаОС" category="Manager">
+				<xr:TypeId>da8982c6-b999-4b53-9c3c-924696dcf6f7</xr:TypeId>
+				<xr:ValueId>49ce69a4-745d-47b5-bd93-72dc472b41b6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ЕдиницыУчетаОС" category="List">
+				<xr:TypeId>b601f025-9414-4e29-93ed-4357e72c7e05</xr:TypeId>
+				<xr:ValueId>7a5d0ea3-9604-426d-82bf-7b58c04a7dbd</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЕдиницыУчетаОС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>9926445e-d328-4c5c-a9c7-c1175cfcbb0a</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="57bde8eb-1750-420e-b86b-ced93fe39c05">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ГрупповойОбъект</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>baeba480-f004-4ca8-880c-3aa348391598</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a9f24ece-31e2-4ac3-a55d-59aa097d15b9">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ИнвентарныйОбъект</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>50263cf2-4f71-4b26-b69b-9dbbc419ffd9</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

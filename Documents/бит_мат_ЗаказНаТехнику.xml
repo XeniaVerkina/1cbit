@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="24808688-990f-4511-a9bf-119a5a979656">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.бит_мат_ЗаказНаТехнику" category="Object">
+				<xr:TypeId>c633af91-2c45-440a-95b4-b50f65919be5</xr:TypeId>
+				<xr:ValueId>83871a2d-73fe-4f7a-8e47-e62fea49ebad</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.бит_мат_ЗаказНаТехнику" category="Ref">
+				<xr:TypeId>7454bec1-10cb-46b6-ab31-b69294b8b90b</xr:TypeId>
+				<xr:ValueId>a5b61ae8-a154-4e12-9cb4-7b4059e1b634</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.бит_мат_ЗаказНаТехнику" category="Selection">
+				<xr:TypeId>a6befbff-f842-44ad-86b2-2028188e06bf</xr:TypeId>
+				<xr:ValueId>be71301a-e382-4de4-8185-185f63e35643</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.бит_мат_ЗаказНаТехнику" category="List">
+				<xr:TypeId>520886b4-2321-4884-9c34-d569e109bee1</xr:TypeId>
+				<xr:ValueId>5acd7521-40a4-4482-9123-583d01b28f8c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.бит_мат_ЗаказНаТехнику" category="Manager">
+				<xr:TypeId>ee453709-f669-4b98-971b-c556949271a6</xr:TypeId>
+				<xr:ValueId>b9034bf4-a5f4-4f88-969c-4578f8cd7757</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>бит_мат_ЗаказНаТехнику</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>20a48965-cf7d-4fb4-bfe2-f4230d3d07c5</ExtendedConfigurationObject>
+			<DefaultChoiceForm>Document.бит_мат_ЗаказНаТехнику.Form.ФормаВыбора</DefaultChoiceForm>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="9571f608-249e-40ea-9600-fb74f78f535e">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Организация</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>fabe1fa8-546c-44f2-bcb1-f771ad790691</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Организации</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="2d2b67fe-da30-4dad-9e2e-fa24eb67e07e">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Подразделение</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>58897c2d-fd46-4175-a048-7d13f1495689</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.ПодразделенияОрганизаций</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Form>ФормаДокумента</Form>
+			<Form>ФормаВыбора</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

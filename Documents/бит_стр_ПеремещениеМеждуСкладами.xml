@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="9523bff3-9e1d-4f28-b770-16ff9b684e77">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.бит_стр_ПеремещениеМеждуСкладами" category="Object">
+				<xr:TypeId>181fbc7f-3ecc-4dde-9f68-e344b027c2bc</xr:TypeId>
+				<xr:ValueId>721ec645-8ddb-4ef4-9adb-040196c41790</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.бит_стр_ПеремещениеМеждуСкладами" category="Ref">
+				<xr:TypeId>fa11f9aa-30db-4800-bf33-4b2e3883bf70</xr:TypeId>
+				<xr:ValueId>dcdb0752-9312-41c5-b82f-c00c58f75984</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.бит_стр_ПеремещениеМеждуСкладами" category="Selection">
+				<xr:TypeId>62655acb-076f-48d2-acf9-7928ed90fa72</xr:TypeId>
+				<xr:ValueId>ee9cdf2f-618f-4579-8119-bc8a7f51eda3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.бит_стр_ПеремещениеМеждуСкладами" category="List">
+				<xr:TypeId>086e3cac-4078-40c8-a462-d6b9d55408f0</xr:TypeId>
+				<xr:ValueId>ec241464-a4f2-4bfd-8aa8-d84f79d62e2e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.бит_стр_ПеремещениеМеждуСкладами" category="Manager">
+				<xr:TypeId>e196bc39-373f-4ed3-b282-f2e0ec1accb6</xr:TypeId>
+				<xr:ValueId>37eff013-ed5e-447f-ac01-1432db871339</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>бит_стр_ПеремещениеМеждуСкладами</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>56553375-4d9d-4102-903f-8b9e6092b7f0</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

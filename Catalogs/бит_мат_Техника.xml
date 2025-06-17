@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Catalog uuid="691675f8-306e-49fb-888a-2df336f05201">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.бит_мат_Техника" category="Object">
+				<xr:TypeId>00ce2e3e-4c3a-4a8a-b106-6ed8df169742</xr:TypeId>
+				<xr:ValueId>28b332ec-3046-4f6c-a5b9-89155dbd5871</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.бит_мат_Техника" category="Ref">
+				<xr:TypeId>849fc53d-e4a8-4dce-aac5-e70e316d6543</xr:TypeId>
+				<xr:ValueId>e4da310f-91f7-4309-9d64-6d5204b4cc95</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.бит_мат_Техника" category="Selection">
+				<xr:TypeId>21a27fe6-12ab-47d5-857f-09c87f2c4b3f</xr:TypeId>
+				<xr:ValueId>6651af4d-df2b-48ae-9301-d888ad8db021</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.бит_мат_Техника" category="List">
+				<xr:TypeId>4eb715cf-2c52-4e69-91a7-d5c03d8e1018</xr:TypeId>
+				<xr:ValueId>b01c8ce5-d865-4dd7-87b0-8765fb659c50</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.бит_мат_Техника" category="Manager">
+				<xr:TypeId>a59c3e78-3c04-4dd4-989c-7d3835070b76</xr:TypeId>
+				<xr:ValueId>ef83746e-40c6-4512-9409-ffdfa71fc71d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>бит_мат_Техника</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e3c0eb0e-bb5a-4ffc-910d-9541b1120d63</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="3d6682d4-bda7-4c25-80f8-4afcfb66a7d8">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ТипСобственности</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>33ec7adb-4774-4851-ad21-234810038e42</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:EnumRef.бит_мат_ТипыСобственности</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Form>ФормаЭлемента</Form>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

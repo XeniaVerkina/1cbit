@@ -42,7 +42,7 @@
 		<Metadata name="Document.бит_мат_ЗаказНаТехнику.ObjectModule" id="24808688-990f-4511-a9bf-119a5a979656.0" configVersion="eac642c5d936987e00f49f4701b88681df113583"/>
 		<Metadata name="Document.бит_мат_ПутевойЛист" id="574022f4-36fd-49d4-bab2-3fa78206dd9b" configVersion="f999b5d3f08becf5979ef9ecbb50c2da611a09c1"/>
 		<Metadata name="Document.бит_мат_ПутевойЛист.Form.ФормаДокумента" id="0d525960-5bdb-4848-b11c-5df5327fe8c1" configVersion="e397ffcdb73aae98932830cf55e28c6cd343278e"/>
-		<Metadata name="Document.бит_мат_ПутевойЛист.Form.ФормаДокумента.Form" id="0d525960-5bdb-4848-b11c-5df5327fe8c1.0" configVersion="67e3f979e11d601dddcf4c8c42aff588be2df877"/>
+		<Metadata name="Document.бит_мат_ПутевойЛист.Form.ФормаДокумента.Form" id="0d525960-5bdb-4848-b11c-5df5327fe8c1.0" configVersion="ad9149852aae87e7b708a6389e79a12475d9108a"/>
 		<Metadata name="Document.бит_мат_ПутевойЛист.ObjectModule" id="574022f4-36fd-49d4-bab2-3fa78206dd9b.0" configVersion="93965b83cca18a62fc8987ea59401cebd9b5a858"/>
 		<Metadata name="Document.бит_стр_ПеремещениеМеждуСкладами" id="9523bff3-9e1d-4f28-b770-16ff9b684e77" configVersion="8d5171a05e86fa9da6eb440e3cd89b64a39cafb7"/>
 		<Metadata name="Document.бит_стр_ПеремещениеМеждуСкладами.Form.ФормаДокумента" id="e8c8a47b-2efe-4cc8-ae8f-fe7b561f1b40" configVersion="c803d38bf64c61bd6cce0ac7a011a933ba5df639"/>
